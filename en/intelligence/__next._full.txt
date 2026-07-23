@@ -1,0 +1,101 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/35ip4ctshr802.js"],"default"]
+3:I[37457,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/35ip4ctshr802.js"],"default"]
+4:I[22016,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/35ip4ctshr802.js","/_next/static/chunks/1rxncug86bump.js"],""]
+12:I[68027,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/35ip4ctshr802.js"],"default",1]
+:HL["/_next/static/chunks/1qxr7k7kozn-u.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=optional","style"]
+0:{"P":null,"c":["","en","intelligence",""],"q":"","i":false,"f":[[["",{"children":["en",{"children":["intelligence",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1qxr7k7kozn-u.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/05-c3ty_6dwfk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/35ip4ctshr802.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh","children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n(function(){\n  var p=window.location.pathname;\n  if(p==='/'||!p.endsWith('/'))return;\n  if(p==='/en/'){window.location.replace('/en/index.html');return}\n  var s=p.split('/').filter(Boolean);\n  if(s.length===0)return;\n  var r=s[s.length-1];\n  var routes=['intelligence','patent','code','research','3d','knowledge','draw'];\n  if(routes.indexOf(r)===-1)return;\n  window.location.replace(p+'index.html');\n})();\n        "}}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=optional","rel":"stylesheet"}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[["$","div",null,{"className":"flex min-h-screen flex-col","children":[["$","header",null,{"className":"navbar","children":["$","div",null,{"className":"navbar-inner","children":[["$","a",null,{"href":"/","className":"navbar-brand","children":"KOS"}],["$","nav",null,{"className":"navbar-links","children":[["$","$L4","home",{"href":"/en","children":"Home"}],["$","$L4","patent",{"href":"/en/patent/","children":"Patent Lab"}],["$","$L4","code",{"href":"/en/code/","children":"Code Lab"}],["$","$L4","threeD",{"href":"/en/3d/","children":"3D Viewer"}],["$","$L4","research",{"href":"/en/research/","children":"Research"}],["$","$L4","intelligence",{"href":"/en/intelligence/","children":"Intelligence"}],["$","$L4","knowledge",{"href":"/en/knowledge/","children":"Knowledge"}],["$","$L4","draw",{"href":"/en/draw/","children":"Draw"}]]}],["$","$L4",null,{"href":"/","className":"navbar-lang","children":"中文"}]]}]}],["$","main",null,{"className":"flex-1","children":["$","div",null,{"style":{"padding":"3rem 0 5rem"},"children":[["$","div",null,{"className":"container","children":[["$","div",null,{"style":{"textAlign":"center","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"2rem","fontWeight":800,"color":"var(--slate-800)","marginBottom":"0.5rem"},"children":"SEEK NZ Green List Job Tracker"}],["$","p",null,{"style":{"color":"var(--slate-500)","fontSize":"1.05rem"},"children":"Data source: Private local agent scans QQ Mail daily · Green List Tier1 ICT focus"}]]}],"$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],"$Lc"]}]}],"$Ld"]}],["$Le"],"$Lf"]}],{},null,false,null]},null,false,"$@10"]},null,false,"$@10"]},null,false,null],"$L11",false]],"m":"$undefined","G":["$12",["$L13"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"B7bT8LqLZwW9la7vpX9D0"}
+15:I[97367,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/35ip4ctshr802.js"],"OutletBoundary"]
+16:"$Sreact.suspense"
+19:I[97367,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/35ip4ctshr802.js"],"ViewportBoundary"]
+1b:I[97367,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/35ip4ctshr802.js"],"MetadataBoundary"]
+5:["$","div",null,{"className":"intel-status-bar","children":[["$","div",null,{"className":"intel-status-left","children":[["$","span",null,{"className":"intel-status-item","children":[["$","span",null,{"className":"intel-dot intel-dot-green"}],"Last updated",": ","2026-07-23 08:03"]}],["$","span",null,{"className":"intel-status-item intel-status-next","children":["Next refresh in",": ",["$","span",null,{"id":"intel-countdown","children":"5:00"}]]}]]}],["$","button",null,{"id":"intel-refresh-btn","className":"intel-refresh-btn","title":"Refresh now","children":["↻ ","Refresh now"]}]]}]
+6:["$","div",null,{"className":"intel-data-source","children":["Data feed updated",": ","2026-07-23 08:03"]}]
+7:["$","div",null,{"className":"intel-stats-grid","children":[["$","div",null,{"className":"intel-stat-card ","children":[["$","div",null,{"className":"intel-stat-value","children":8}],["$","div",null,{"className":"intel-stat-label","children":"Emails Scanned"}]]}],["$","div",null,{"className":"intel-stat-card ","children":[["$","div",null,{"className":"intel-stat-value","children":91}],["$","div",null,{"className":"intel-stat-label","children":"Unique Jobs"}]]}],["$","div",null,{"className":"intel-stat-card intel-stat-highlight","children":[["$","div",null,{"className":"intel-stat-value","children":0}],["$","div",null,{"className":"intel-stat-label","children":"Tier1 Matches"}]]}],["$","div",null,{"className":"intel-stat-card ","children":[["$","div",null,{"className":"intel-stat-value","children":"2026-07-23"}],["$","div",null,{"className":"intel-stat-label","children":"Date Updated"}]]}]]}]
+8:["$","section",null,{"className":"intel-section","children":[["$","h2",null,{"className":"intel-section-title","children":["🏆 ","Green List Tier1 Matched Positions"]}],["$","p",null,{"className":"intel-empty","children":"No Tier1 matches currently"}]]}]
+9:["$","section",null,{"className":"intel-section","children":[["$","h2",null,{"className":"intel-section-title","children":["📋 ","All Positions"," (",91,")"]}],["$","button",null,{"id":"intel-toggle-btn","className":"intel-toggle-btn","children":"Show all positions"}],["$","div",null,{"id":"intel-all-jobs","style":{"display":"none","overflowX":"auto","marginTop":"1rem"},"children":["$","table",null,{"className":"intel-table intel-table-sm","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Position"}],["$","th",null,{"children":"Company"}],["$","th",null,{"children":"Location"}]]}]}],["$","tbody",null,{"id":"intel-all-jobs-body"}]]}]}]]}]
+a:["$","section",null,{"className":"intel-section","children":[["$","h2",null,{"className":"intel-section-title","children":["🛠️ ","Recommended Skill Development"]}],["$","ul",null,{"className":"intel-skills-list","children":[["$","li","0",{"children":"SQL queries & index optimization (LeetCode Database 50)"}],["$","li","1",{"children":"PostgreSQL / MySQL administration, backup, permissions"}],["$","li","2",{"children":"AWS RDS / Azure SQL cloud database hands-on experience"}],["$","li","3",{"children":"English CV & interview expression (highlight ERP/SAP/Oracle + Python data experience)"}],["$","li","4",{"children":"NZQA IQA qualification assessment (Green List prerequisite)"}]]}]]}]
+b:["$","section",null,{"className":"intel-section","children":[["$","h2",null,{"className":"intel-section-title","children":["⚙️ ","Automation Overview"]}],["$","p",null,{"className":"intel-auto-note","children":"This dashboard is powered by a local Python agent that fetches SEEK job alert emails from QQ Mail daily, parses HTML to extract job listings, and scores them against the New Zealand Green List Tier1 ICT criteria. Matched positions are written to a JSON feed; the frontend refreshes every 5 minutes."}]]}]
+14:T954,
+(function() {
+  // Prevent browser scroll restoration from causing page jump on refresh
+  if ('scrollRestoration' in history) {
+    history.scrollRestoration = 'manual';
+  }
+  window.scrollTo(0, 0);
+  
+  var REFRESH_SECONDS = 300;
+  var remaining = REFRESH_SECONDS;
+  var countdownEl = document.getElementById('intel-countdown');
+  var refreshBtn = document.getElementById('intel-refresh-btn');
+  var toggleBtn = document.getElementById('intel-toggle-btn');
+  var allJobsEl = document.getElementById('intel-all-jobs');
+  var allJobsBody = document.getElementById('intel-all-jobs-body');
+  var allJobsLoaded = false;
+  var expanded = false;
+
+  function formatTime(sec) {
+    var m = Math.floor(sec / 60);
+    var s = sec % 60;
+    return m + ':' + (s < 10 ? '0' + s : s);
+  }
+
+  // Countdown timer
+  setInterval(function() {
+    remaining--;
+    if (remaining < 0) {
+      remaining = REFRESH_SECONDS;
+      location.reload();
+      return;
+    }
+    if (countdownEl) countdownEl.textContent = formatTime(remaining);
+  }, 1000);
+
+  // Manual refresh
+  if (refreshBtn) {
+    refreshBtn.addEventListener('click', function() {
+      refreshBtn.textContent = '⟳ Refreshing…';
+      location.reload();
+    });
+  }
+
+  // Toggle all jobs — lazy load from JSON on first expand
+  if (toggleBtn && allJobsEl) {
+    toggleBtn.addEventListener('click', function() {
+      expanded = !expanded;
+      allJobsEl.style.display = expanded ? 'block' : 'none';
+      toggleBtn.textContent = expanded ? 'Collapse' : 'Show all positions';
+
+      if (expanded && !allJobsLoaded) {
+        allJobsLoaded = true;
+        fetch('/data/seek-nz/latest.json?t=' + Date.now(), { cache: 'no-store' })
+          .then(function(r) { return r.json(); })
+          .then(function(data) {
+            var jobs = data.data.all_jobs || [];
+            var html = '';
+            for (var i = 0; i < jobs.length; i++) {
+              var j = jobs[i];
+              html += '<tr><td><a href="' + j.url + '" target="_blank" rel="noopener noreferrer" class="intel-job-link">' + j.title + '</a></td><td>' + j.company + '</td><td>' + j.location + '</td></tr>';
+            }
+            if (allJobsBody) allJobsBody.innerHTML = html;
+          })
+          .catch(function() {
+            if (allJobsBody) allJobsBody.innerHTML = '<tr><td colspan="3">Failed to load</td></tr>';
+          });
+      }
+    });
+  }
+})();
+      c:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$14"}}]
+d:["$","footer",null,{"className":"footer","children":[["$","div",null,{"className":"footer-identity","children":[["$","a",null,{"href":"mailto:WJR2026@hotmail.com","className":"footer-link","children":[["$","svg",null,{"width":"16","height":"16","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round","children":[["$","path",null,{"d":"M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"}],["$","polyline",null,{"points":"22,6 12,13 2,6"}]]}],"WJR2026@hotmail.com"]}],["$","a",null,{"href":"https://orcid.org/0009-0006-0528-3961","target":"_blank","rel":"noopener noreferrer","className":"footer-link","children":[["$","svg",null,{"width":"16","height":"16","viewBox":"0 0 256 256","fill":"none","children":[["$","path",null,{"d":"M256,128c0,70.7-57.3,128-128,128C57.3,256,0,198.7,0,128C0,57.3,57.3,0,128,0C198.7,0,256,57.3,256,128z","fill":"#A6CE39"}],["$","path",null,{"d":"M86.3,186.2H70.9V79.1h15.4v107.1z","fill":"#fff"}],["$","path",null,{"d":"M108.9,79.1h41.6c39.6,0,57,28.3,57,53.6c0,27.5-21.5,53.6-56.8,53.6h-41.8V79.1z M124.3,172.4h24.5c34.9,0,42.9-26.5,42.9-39.7c0-21.5-13.7-39.7-41.4-39.7h-26V172.4z","fill":"#fff"}],["$","path",null,{"d":"M88.7,56.8c0,5.5-4.5,10.1-10.1,10.1c-5.6,0-10.1-4.6-10.1-10.1c0-5.6,4.5-10.1,10.1-10.1C84.2,46.7,88.7,51.3,88.7,56.8z","fill":"#fff"}]]}],"ORCID: ","0009-0006-0528-3961"]}],["$","a",null,{"href":"https://github.com/JRWang2026","target":"_blank","rel":"noopener noreferrer","className":"footer-link","title":"GitHub","children":[["$","svg",null,{"width":"16","height":"16","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"}]}],"GitHub"]}]]}],["$","p",null,{"children":"© 2026 KOS — Knowledge Operating System"}],["$","p",null,{"className":"footer-built","children":"Built with Next.js · Deployed on CloudStudio"}]]}]
+e:["$","script","script-0",{"src":"/_next/static/chunks/1rxncug86bump.js","async":true,"nonce":"$undefined"}]
+f:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+18:[]
+10:"$W18"
+11:["$","$1","h",{"children":[null,["$","$L19",null,{"children":"$L1a"}],["$","div",null,{"hidden":true,"children":["$","$L1b",null,{"children":["$","$16",null,{"name":"Next.Metadata","children":"$L1c"}]}]}],null]}]
+13:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1qxr7k7kozn-u.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1d:I[27201,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/35ip4ctshr802.js"],"IconMark"]
+17:null
+1c:[["$","title","0",{"children":"Intelligence | SEEK NZ Green List Job Tracker | KOS"}],["$","meta","1",{"name":"description","content":"Real-time SEEK NZ Green List Tier 1 ICT job tracker powered by a self-hosted Python agent. Daily email scanning for Green List occupations including Database Administrator, Software Engineer, and Systems Administrator."}],["$","link","2",{"rel":"author","href":"https://orcid.org/0009-0006-0528-3961"}],["$","meta","3",{"name":"author","content":"Jirui Wang"}],["$","meta","4",{"name":"keywords","content":"Jirui Wang,王吉锐,competitive intelligence,manufacturing digital transformation,patent text mining,knowledge organization,PhD application,Germany,ISTIC,information science,竞争情报,制造业数字化转型,专利分析"}],["$","meta","5",{"name":"creator","content":"Jirui Wang"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","link","7",{"rel":"alternate","hrefLang":"zh-CN","href":"https://kos.studio/"}],["$","link","8",{"rel":"alternate","hrefLang":"en","href":"https://kos.studio/en/"}],["$","meta","9",{"property":"og:title","content":"Intelligence Dashboard — SEEK NZ Green List Job Tracker"}],["$","meta","10",{"property":"og:description","content":"Automated SEEK NZ Green List Tier 1 ICT job monitoring powered by a self-hosted Python agent."}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"Intelligence Dashboard — SEEK NZ Green List Job Tracker"}],["$","meta","13",{"name":"twitter:description","content":"Automated SEEK NZ Green List Tier 1 ICT job monitoring powered by a self-hosted Python agent."}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1d","15",{}]]

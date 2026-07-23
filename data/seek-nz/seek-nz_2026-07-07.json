@@ -1,0 +1,927 @@
+{
+  "meta": {
+    "title": "SEEK NZ 绿名单岗位追踪",
+    "description": "每日自动扫描 SEEK NZ 邮件中的绿名单 Tier1 ICT 岗位",
+    "icon": "briefcase",
+    "section_id": "seek-nz",
+    "last_updated": "2026-07-07T09:04:37.940072"
+  },
+  "data": {
+    "date": "2026-07-07",
+    "email_count": 4,
+    "total_jobs": 57,
+    "tier1_jobs": [
+      {
+        "title": "HR Systems Administrator",
+        "company": "Ministry of Foreign Affairs & Trade",
+        "location": "Wellington",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/HR-Systems-Administrator-jobs",
+        "score": 70,
+        "reasons": [
+          "绿名单Tier1: Systems Administrator",
+          "政府/公共部门",
+          "惠灵顿地区"
+        ],
+        "immigration_path": "绿名单Tier1 Straight to Residence | 262113 Systems Administrator — 有offer即可直申居留",
+        "suggested_skills": "1)英文简历突出具体技术栈(Python/SQL/Cloud/Security); 2)GitHub作品集; 3)准备NZ本地面试题; 4)NZQA IQA学历评估",
+        "anzsco_code": "262113",
+        "anzsco_name": "Systems Administrator"
+      }
+    ],
+    "all_jobs": [
+      {
+        "title": "HR Systems Administrator",
+        "company": "Ministry of Foreign Affairs & Trade",
+        "location": "Wellington",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/HR-Systems-Administrator-jobs",
+        "score": 70,
+        "reasons": [
+          "绿名单Tier1: Systems Administrator",
+          "政府/公共部门",
+          "惠灵顿地区"
+        ],
+        "immigration_path": "绿名单Tier1 Straight to Residence | 262113 Systems Administrator — 有offer即可直申居留",
+        "suggested_skills": "1)英文简历突出具体技术栈(Python/SQL/Cloud/Security); 2)GitHub作品集; 3)准备NZ本地面试题; 4)NZQA IQA学历评估",
+        "anzsco_code": "262113",
+        "anzsco_name": "Systems Administrator"
+      },
+      {
+        "title": "Business Systems Analyst",
+        "company": "Ashburton District Council",
+        "location": "Christchurch Central, Canterbury",
+        "salary": "© SEEK Limited, 60 Cremorne St, Cremorne VIC 3121 Australia",
+        "url": "https://www.seek.co.nz/Business-Systems-Analyst-jobs",
+        "score": 26,
+        "reasons": [
+          "非绿名单:BSA/ERP(已降级)",
+          "政府/公共部门",
+          "非奥克兰地区加分"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "1)补强Windows/Linux系统管理; 2)Network+/CCNA基础; 3)准备ITIL/服务台经验描述; 4)NZQA IQA学历评估",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "PA to Head of Finance, Data & Digital",
+        "company": "Napier City Council",
+        "location": "Napier Central, Hawkes Bay",
+        "salary": "Salary range $70,961 - $79,309 dependent on exp",
+        "url": "https://www.seek.co.nz/PA-to-Head-of-Finance,-Data-&-Digital-jobs",
+        "score": 23,
+        "reasons": [
+          "非目标岗位",
+          "政府/公共部门",
+          "非奥克兰地区加分"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Senior Analyst",
+        "company": "Ministry of Justice",
+        "location": "Wellington Central, Wellington",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Senior-Analyst-jobs",
+        "score": 20,
+        "reasons": [
+          "非目标岗位",
+          "政府/公共部门",
+          "惠灵顿地区"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Senior Data Engineer",
+        "company": "Fisher & Paykel Healthcare",
+        "location": "Auckland",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Senior-Data-Engineer-jobs",
+        "score": 20,
+        "reasons": [
+          "非绿名单:数据岗(已降级)",
+          "ICT/科技公司"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Senior Oracle Specialist",
+        "company": "Ministry of Social Development",
+        "location": "Wellington Central, Wellington",
+        "salary": "Your destination for personalised advice and guidance on your career, salary and job opportunities.",
+        "url": "https://www.seek.co.nz/Senior-Oracle-Specialist-jobs",
+        "score": 20,
+        "reasons": [
+          "非目标岗位",
+          "政府/公共部门",
+          "惠灵顿地区"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Technology Business Analyst",
+        "company": "ANZ Bank New Zealand Limited",
+        "location": "Auckland",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Technology-Business-Analyst-jobs",
+        "score": 20,
+        "reasons": [
+          "非绿名单:BSA/ERP(已降级)",
+          "ICT/科技公司"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "EA and Board Secretariat",
+        "company": "New Zealand Institute for Advanced Technology",
+        "location": "Auckland CBD, Auckland",
+        "salary": "$100,785 – $125,977 per year",
+        "url": "https://www.seek.co.nz/EA-and-Board-Secretariat-jobs",
+        "score": 17,
+        "reasons": [
+          "非目标岗位",
+          "ICT/科技公司"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Senior Data Governance & Enablement Analyst",
+        "company": "Fisher & Paykel Healthcare",
+        "location": "Auckland",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Senior-Data-Governance-&-Enablement-Analyst-jobs",
+        "score": 17,
+        "reasons": [
+          "非目标岗位",
+          "ICT/科技公司"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Technology Support Specialist",
+        "company": "NZ Transport Agency Waka Kotahi",
+        "location": "Auckland",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Technology-Support-Specialist-jobs",
+        "score": 17,
+        "reasons": [
+          "非目标岗位",
+          "ICT/科技公司"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Operations Advisor - Auckland",
+        "company": "Department of Corrections",
+        "location": "Auckland CBD, Auckland",
+        "salary": "$69,205 - $81,098",
+        "url": "https://www.seek.co.nz/Operations-Advisor---Auckland-jobs",
+        "score": 15,
+        "reasons": [
+          "非目标岗位",
+          "政府/公共部门"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "IT Support - Pacific Plant - Hastings",
+        "company": "Silver Fern Farms",
+        "location": "Hastings Central, Hawkes Bay",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/IT-Support---Pacific-Plant---Hastings-jobs",
+        "score": 13,
+        "reasons": [
+          "非目标岗位",
+          "非奥克兰地区加分"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Laboratory Technician",
+        "company": "MilkTestNZ",
+        "location": "Te Rapa, Waikato",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Laboratory-Technician-jobs",
+        "score": 13,
+        "reasons": [
+          "非目标岗位",
+          "非奥克兰地区加分"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Senior Business Analyst",
+        "company": "Younity",
+        "location": "Wellington Central, Wellington",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Senior-Business-Analyst-jobs",
+        "score": 13,
+        "reasons": [
+          "非绿名单:BSA/ERP(已降级)",
+          "惠灵顿地区"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Laboratory Technician - Newstead (Seasonal)",
+        "company": "Livestock Improvement Corporation",
+        "location": "Newstead, Waikato",
+        "salary": "Experience the buzz of peak dairy season!",
+        "url": "https://www.seek.co.nz/Laboratory-Technician---Newstead-(Seasonal)-jobs",
+        "score": 13,
+        "reasons": [
+          "非目标岗位",
+          "非奥克兰地区加分"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Business Performance, Analytics & Reporting Analyst",
+        "company": "ANZ Bank New Zealand Limited",
+        "location": "Wellington",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Business-Performance,-Analytics-&-Reporting-Analyst-jobs",
+        "score": 13,
+        "reasons": [
+          "非绿名单:数据岗(已降级)",
+          "惠灵顿地区"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Country Manager, New Zealand",
+        "company": "ALS Life Sciences - Food & Pharmaceutical Services",
+        "location": "Hamilton, Waikato",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Country-Manager,-New-Zealand-jobs",
+        "score": 13,
+        "reasons": [
+          "非目标岗位",
+          "非奥克兰地区加分"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Laboratory Technician",
+        "company": "Honey New Zealand",
+        "location": "Hamilton East, Waikato",
+        "salary": "© SEEK Limited, 60 Cremorne St, Cremorne VIC 3121 Australia",
+        "url": "https://www.seek.co.nz/Laboratory-Technician-jobs",
+        "score": 13,
+        "reasons": [
+          "非目标岗位",
+          "非奥克兰地区加分"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Operations Manager",
+        "company": "Keystone Business Services Ltd",
+        "location": "Christchurch Central, Canterbury",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Operations-Manager-jobs",
+        "score": 13,
+        "reasons": [
+          "非目标岗位",
+          "非奥克兰地区加分"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Production Team Leader",
+        "company": "Moana New Zealand",
+        "location": "Palmerston North Central, Manawatu",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Production-Team-Leader-jobs",
+        "score": 13,
+        "reasons": [
+          "非目标岗位",
+          "非奥克兰地区加分"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Dairy Farm Assistant - Devon Dairy Farms",
+        "company": "Trojan Holdings",
+        "location": "Hawea Flat, Otago",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Dairy-Farm-Assistant---Devon-Dairy-Farms-jobs",
+        "score": 13,
+        "reasons": [
+          "非目标岗位",
+          "非奥克兰地区加分"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Office Manager",
+        "company": "Novatek",
+        "location": "Middleton, Canterbury",
+        "salary": "$30 – $40 per hour",
+        "url": "https://www.seek.co.nz/Office-Manager-jobs",
+        "score": 10,
+        "reasons": [
+          "行政岗:忽略",
+          "非奥克兰地区加分"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Executive & Governance Support Lead",
+        "company": "Central Pacific Collective",
+        "location": "Wellington Central, Wellington",
+        "salary": "$80,000 – $100,000 per year",
+        "url": "https://www.seek.co.nz/Executive-&-Governance-Support-Lead-jobs",
+        "score": 10,
+        "reasons": [
+          "非目标岗位",
+          "惠灵顿地区"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Roster Coordinator",
+        "company": "Hohepa Canterbury",
+        "location": "Somerfield, Canterbury",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Roster-Coordinator-jobs",
+        "score": 10,
+        "reasons": [
+          "行政岗:忽略",
+          "非奥克兰地区加分"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Office Administrator / Customer Service Coordinator",
+        "company": "Irrigation Services Ltd",
+        "location": "Clive, Hawkes Bay",
+        "salary": "$30 – $35 per hour",
+        "url": "https://www.seek.co.nz/Office-Administrator---Customer-Service-Coordinator-jobs",
+        "score": 10,
+        "reasons": [
+          "行政岗:忽略",
+          "非奥克兰地区加分"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Company Administrator/Business Support",
+        "company": "GeoCivil",
+        "location": "Whangarei Central, Northland",
+        "salary": "$55,000 – $75,000 per year",
+        "url": "https://www.seek.co.nz/Company-Administrator-Business-Support-jobs",
+        "score": 10,
+        "reasons": [
+          "行政岗:忽略",
+          "非奥克兰地区加分"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Territory Sales Manager",
+        "company": "Coca-Cola Europacific Partners NZ Ltd",
+        "location": "Wellington Central, Wellington",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Territory-Sales-Manager-jobs",
+        "score": 10,
+        "reasons": [
+          "非目标岗位",
+          "惠灵顿地区"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Technical Business Analyst",
+        "company": "Maori Television",
+        "location": "East Tamaki, Auckland",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Technical-Business-Analyst-jobs",
+        "score": 8,
+        "reasons": [
+          "非绿名单:BSA/ERP(已降级)"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Customer Support - Night Shift",
+        "company": "Grinding Gear Games",
+        "location": "Henderson, Auckland",
+        "salary": "$55,000 – $60,000 per year",
+        "url": "https://www.seek.co.nz/Customer-Support---Night-Shift-jobs",
+        "score": 5,
+        "reasons": [
+          "非目标岗位"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "IT Support/Operations Technician (Full-Time)",
+        "company": "Marine Deals Ltd.",
+        "location": "Avondale, Auckland",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/IT-Support-Operations-Technician-(Full-Time)-jobs",
+        "score": 5,
+        "reasons": [
+          "非目标岗位"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "IT Support Engineer",
+        "company": "Skills Group",
+        "location": "East Tamaki, Auckland",
+        "salary": "Salary + Benefits",
+        "url": "https://www.seek.co.nz/IT-Support-Engineer-jobs",
+        "score": 5,
+        "reasons": [
+          "非目标岗位"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "IT Support Specialist",
+        "company": "Hafele (N.Z.) Limited",
+        "location": "East Tamaki, Auckland",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/IT-Support-Specialist-jobs",
+        "score": 5,
+        "reasons": [
+          "非目标岗位"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Service Desk Level 1",
+        "company": "Mobile Mentor Limited",
+        "location": "Auckland CBD, Auckland",
+        "salary": "© SEEK Limited, 60 Cremorne St, Cremorne VIC 3121 Australia",
+        "url": "https://www.seek.co.nz/Service-Desk-Level-1-jobs",
+        "score": 5,
+        "reasons": [
+          "非目标岗位"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Business Applications Specialist",
+        "company": "Omexom New Zealand",
+        "location": "Albany, Auckland",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Business-Applications-Specialist-jobs",
+        "score": 5,
+        "reasons": [
+          "非目标岗位"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Reproductive Biology Scientist",
+        "company": "Engender Technologies",
+        "location": "Auckland CBD, Auckland",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Reproductive-Biology-Scientist-jobs",
+        "score": 5,
+        "reasons": [
+          "非目标岗位"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Health, Safety & Wellbeing Insights & Learning Manager",
+        "company": "Fonterra Co-operative Group Ltd",
+        "location": "Auckland CBD, Auckland",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Health,-Safety-&-Wellbeing-Insights-&-Learning-Manager-jobs",
+        "score": 5,
+        "reasons": [
+          "非目标岗位"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Research and Development Scientist",
+        "company": "Sanitarium Health Food Company",
+        "location": "Avondale, Auckland",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Research-and-Development-Scientist-jobs",
+        "score": 5,
+        "reasons": [
+          "非目标岗位"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Plant Manager - Joinery (Visa Sponsorship Available for Successful Candidates)",
+        "company": "Claytons Factory",
+        "location": "Auckland CBD, Auckland",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Plant-Manager---Joinery-(Visa-Sponsorship-Available-for-Successful-Candidates)-jobs",
+        "score": 5,
+        "reasons": [
+          "非目标岗位"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Demand & Inventory Planner",
+        "company": "Austral Distributors Ltd",
+        "location": "St Johns, Auckland",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Demand-&-Inventory-Planner-jobs",
+        "score": 5,
+        "reasons": [
+          "非目标岗位"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Showroom Sales Manager",
+        "company": "Elite Bathroomware Ltd",
+        "location": "East Tamaki, Auckland",
+        "salary": "$100,000 – $110,000 per year + Bonus",
+        "url": "https://www.seek.co.nz/Showroom-Sales-Manager-jobs",
+        "score": 5,
+        "reasons": [
+          "非目标岗位"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Medical Claims Assessor",
+        "company": "AIA New Zealand",
+        "location": "Takapuna, Auckland",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Medical-Claims-Assessor-jobs",
+        "score": 5,
+        "reasons": [
+          "非目标岗位"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Estimator",
+        "company": "Ten10 Group Ltd",
+        "location": "Hobsonville, Auckland",
+        "salary": "$75,000 – $85,000 per year",
+        "url": "https://www.seek.co.nz/Estimator-jobs",
+        "score": 5,
+        "reasons": [
+          "非目标岗位"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Supply Chain Manager",
+        "company": "NetYourJob",
+        "location": "Penrose, Auckland",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Supply-Chain-Manager-jobs",
+        "score": 5,
+        "reasons": [
+          "非目标岗位"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Laboratory Field Technician",
+        "company": "WSP New Zealand",
+        "location": "Auckland CBD, Auckland",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Laboratory-Field-Technician-jobs",
+        "score": 5,
+        "reasons": [
+          "非目标岗位"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Pricing Analyst",
+        "company": "OfficeMax New Zealand Limited",
+        "location": "East Tamaki, Auckland",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Pricing-Analyst-jobs",
+        "score": 5,
+        "reasons": [
+          "非目标岗位"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Customer Service",
+        "company": "Hato Hone St John",
+        "location": "Auckland CBD, Auckland",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Customer-Service-jobs",
+        "score": 5,
+        "reasons": [
+          "非目标岗位"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Grower",
+        "company": "Passion Fresh Limited",
+        "location": "Pukekohe, Auckland",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Grower-jobs",
+        "score": 5,
+        "reasons": [
+          "非目标岗位"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Forklift Driver",
+        "company": "Sidekicker",
+        "location": "Auckland CBD, Auckland",
+        "salary": "© SEEK Limited, 60 Cremorne St, Cremorne VIC 3121 Australia",
+        "url": "https://www.seek.co.nz/Forklift-Driver-jobs",
+        "score": 5,
+        "reasons": [
+          "非目标岗位"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Recruitment Administrator",
+        "company": "Premier Staffing Solutions",
+        "location": "Henderson, Auckland",
+        "salary": "$28 - $32 / hour",
+        "url": "https://www.seek.co.nz/Recruitment-Administrator-jobs",
+        "score": 2,
+        "reasons": [
+          "行政岗:忽略"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Executive Assistant",
+        "company": "Asteron",
+        "location": "Auckland CBD, Auckland",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Executive-Assistant-jobs",
+        "score": 2,
+        "reasons": [
+          "行政岗:忽略"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Service Administrator / Front of House",
+        "company": "Dodson Motorsport Limited",
+        "location": "Wairau Valley, Auckland",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Service-Administrator---Front-of-House-jobs",
+        "score": 2,
+        "reasons": [
+          "行政岗:忽略"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Administrator",
+        "company": "Fred Recruitment",
+        "location": "Auckland CBD, Auckland",
+        "salary": "Up to $70K Depending on experience",
+        "url": "https://www.seek.co.nz/Administrator-jobs",
+        "score": 2,
+        "reasons": [
+          "行政岗:忽略"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Operations & Logistics Coordinator",
+        "company": "terra infrastructure Pty Ltd",
+        "location": "Whenuapai, Auckland",
+        "salary": "Not specified",
+        "url": "https://www.seek.co.nz/Operations-&-Logistics-Coordinator-jobs",
+        "score": 2,
+        "reasons": [
+          "行政岗:忽略"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Junior Business Systems Analyst",
+        "company": "EBOS Group Ltd",
+        "location": "Mangere, Auckland",
+        "salary": "Base Salary + Kiwi Saver",
+        "url": "https://www.seek.co.nz/Junior-Business-Systems-Analyst-jobs",
+        "score": 0,
+        "reasons": [
+          "非绿名单:BSA/ERP(已降级)",
+          "初级岗降分"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "1)补强Windows/Linux系统管理; 2)Network+/CCNA基础; 3)准备ITIL/服务台经验描述; 4)NZQA IQA学历评估",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Office Administrator Part Time",
+        "company": "PoolWise Limited",
+        "location": "Mount Wellington, Auckland",
+        "salary": "$60,000 – $66,000 per year",
+        "url": "https://www.seek.co.nz/Office-Administrator-Part-Time-jobs",
+        "score": 0,
+        "reasons": [
+          "行政岗:忽略",
+          "惠灵顿地区",
+          "兼职降分"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Customer Service Representative - Service Centre - Part time",
+        "company": "Auckland Transport",
+        "location": "Auckland CBD, Auckland",
+        "salary": "Annual salary + 25% discount on public transport",
+        "url": "https://www.seek.co.nz/Customer-Service-Representative---Service-Centre---Part-time-jobs",
+        "score": 0,
+        "reasons": [
+          "非目标岗位",
+          "兼职降分"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      },
+      {
+        "title": "Junior Project Coordinator",
+        "company": "Phillip Riley",
+        "location": "Auckland",
+        "salary": "$40 per hour",
+        "url": "https://www.seek.co.nz/Junior-Project-Coordinator-jobs",
+        "score": 0,
+        "reasons": [
+          "行政岗:忽略",
+          "初级岗降分"
+        ],
+        "immigration_path": "非绿名单，移民路径弱，建议忽略",
+        "suggested_skills": "非目标岗位，不建议投入精力",
+        "anzsco_code": "",
+        "anzsco_name": ""
+      }
+    ]
+  }
+}
